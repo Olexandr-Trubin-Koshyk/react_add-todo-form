@@ -1,2 +1,0 @@
-.App{text-align:center}.container{margin:10px}.todoList{display:grid;padding:0;grid-template-columns:repeat(4,1fr);grid-gap:10px;gap:10px;list-style:none}.todoList__item{display:flex;flex-direction:column;justify-content:space-between;align-items:center;padding:10px;border:1px solid #000;border-radius:10px;background-color:#999;transition:background-color .3s ease-in-out}.todoList__item:hover{background-color:#9acd32}
-/*# sourceMappingURL=main.1c8cf14c.chunk.css.map */
